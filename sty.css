@@ -80,7 +80,7 @@ header{
 }
 
 header .user img{
-    height: 13rem;
+    height: 15rem;
     width: 13rem;
     border-radius: 50%;
     object-fit: cover;
@@ -94,7 +94,7 @@ header .user .nm{
 
 header .user .jb{
     font-size:1rem;
-    color: #fff;
+    color: blue;
 }
 
 header .nv{
